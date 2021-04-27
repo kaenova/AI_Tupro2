@@ -1,6 +1,0 @@
-{
-    "jupyter.jupyterServerType": "local",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.formatting.provider": "yapf"
-}
