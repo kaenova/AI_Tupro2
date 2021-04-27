@@ -1,1 +1,0 @@
-Untuk multiple equation dalam 1 function bisa pakai np piecewise, daripada menggunakan if

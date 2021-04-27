@@ -1,2 +1,4 @@
 pandas
 xlwt
+xlrd
+openpyxl
